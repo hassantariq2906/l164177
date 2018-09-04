@@ -23,10 +23,10 @@
 </ul>
 <b>Favourite Qutation</b>
 <p>Try not to become the 
-<em>man of success</em> but rather try to be the<strong> man of value </strong>.
+<em>man of success</em> but rather try to be the<strong> man of value </strong>. 
 </p>
-  <b>Link to my Facebook Account</b>
+  <b>Link to my Facebook Account</b> </br>
 <a
-href="https://facebook.com/249hassan">Muhammad Hassan Tariq</a>
+href="https://facebook.com/249hassan">Muhammad Hassan Tariq</a> </br>
 
 </body>
