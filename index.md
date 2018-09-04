@@ -5,7 +5,7 @@
 <ul>
   <li>Beconhouse School System <span> (Matric,2014)</span> </li>
   <li>Concordia <span>(Matric,2016) </span></li>
-  <li>FAST NUCES <span>(BSCS,Still doing) </span></li>
+  <li>FAST NUCES <span>(BSCS, Still doing) </span></li>
 </ul>
   <strong>Interests</strong>
 <ol>
@@ -23,9 +23,9 @@
 </ul>
 <strong>Favourite Qutation</strong>
 <p>Try not to become the 
-<em>man of success</em> but rather try to be the<strong> man of value </strong>. 
+<em>man of success</em> but rather try to be the<em> man of value </em>. 
 </p>
-  <strong>To visit my Facebook Account</strong> </br>
+  <strong>To visit my Facebook Account</strong>
 <a
 href="https://facebook.com/249hassan"> click this link</a>
 
