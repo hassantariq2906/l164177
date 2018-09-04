@@ -1,31 +1,31 @@
 <title>Hassan's</title>
 ## CV
 <body>
-<b>Education</b>
+<strong>Education</strong>
 <ul>
   <li>Beconhouse School System <span> (Matric,2014)</span> </li>
   <li>Concordia <span>(Matric,2016) </span></li>
   <li>FAST NUCES <span>(BSCS,Still doing) </span></li>
 </ul>
-  <b>Interests</b>
+  <strong>Interests</strong>
 <ol>
   <li>Futsal</li>
   <li>Table Tennis</li>
   <li>Programming</li>
   <li>Graphic Designing</li>
 </ol>
-  <b>Acheivements</b>
+  <strong>Acheivements</strong>
 <ul>
   <li> 1 Month experience as an internee at Vanilla Arcade. </li>
   <li> Member of 2nd position holding team in Futsal competition, FAST. </li>
   <li> Stood 2nd in Concordia, Walton Campus on the basis of FSc part-I result. </li>
   <li> Designed logos and flex for many companies and organizations </li>
 </ul>
-<b>Favourite Qutation</b>
+<strong>Favourite Qutation</strong>
 <p>Try not to become the 
 <em>man of success</em> but rather try to be the<strong> man of value </strong>. 
 </p>
-  <b>Link to my Facebook Account</b> </br>
+  <strong>Link to my Facebook Account</strong> </br>
 <a
 href="https://facebook.com/249hassan">Muhammad Hassan Tariq</a> </br>
 
