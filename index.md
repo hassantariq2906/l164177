@@ -1,4 +1,4 @@
-<title>Hassan's</title>
+
 ## CV
 <body>
 <strong>Education</strong>
@@ -25,8 +25,8 @@
 <p>Try not to become the 
 <em>man of success</em> but rather try to be the<strong> man of value </strong>. 
 </p>
-  <strong>Link to my Facebook Account</strong> </br>
+  <strong>To visit my Facebook Account</strong> </br>
 <a
-href="https://facebook.com/249hassan">Muhammad Hassan Tariq</a> </br>
+href="https://facebook.com/249hassan"> click this link</a>
 
 </body>
